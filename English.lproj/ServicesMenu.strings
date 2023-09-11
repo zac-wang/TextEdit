@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New TextEdit Window Containing Selection</key>
+	<string>New TextEdit Window Containing Selection</string>
+	<key>Open Selected File in TextEdit</key>
+	<string>Open Selected File in TextEdit</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enter a line number or a range of line numbers to select.</key>
+	<string>Enter a line number or a range of line numbers to select.</string>
+	<key>Invalid line specification \U201c%@\U201d.</key>
+	<string>Invalid line specification “%@”.</string>
+</dict>
+</plist>

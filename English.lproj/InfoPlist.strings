@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apple HTML document</key>
+	<string>Web Page (.html)</string>
+	<key>Apple SimpleText document</key>
+	<string>SimpleText Document</string>
+	<key>Apple Web archive</key>
+	<string>Web Archive Document</string>
+	<key>CFBundleDisplayName</key>
+	<string>TextEdit</string>
+	<key>CFBundleName</key>
+	<string>TextEdit</string>
+	<key>Microsoft Word 2003 XML document</key>
+	<string>Word 2003 (.xml) Document</string>
+	<key>Microsoft Word 2007 document</key>
+	<string>Word 2007 (.docx) Document</string>
+	<key>Microsoft Word 97 document</key>
+	<string>Word 97 (.doc) Document</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 1995-2013 Apple Inc.
+All rights reserved.</string>
+	<key>NSRTFDPboardType</key>
+	<string>Rich Text Document with Attachments</string>
+	<key>NSRTFPboardType</key>
+	<string>Rich Text Document</string>
+	<key>NSStringPboardType</key>
+	<string>Plain Text Document</string>
+	<key>OpenDocument Text document</key>
+	<string>OpenDocument Text (.odt) Document</string>
+	<key>Unknown document</key>
+	<string>Document</string>
+</dict>
+</plist>

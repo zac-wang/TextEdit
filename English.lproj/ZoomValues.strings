@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10%</key>
+	<string>10%</string>
+	<key>100%</key>
+	<string>100%</string>
+	<key>125%</key>
+	<string>125%</string>
+	<key>150%</key>
+	<string>150%</string>
+	<key>1600%</key>
+	<string>1600%</string>
+	<key>200%</key>
+	<string>200%</string>
+	<key>25%</key>
+	<string>25%</string>
+	<key>400%</key>
+	<string>400%</string>
+	<key>50%</key>
+	<string>50%</string>
+	<key>75%</key>
+	<string>75%</string>
+	<key>800%</key>
+	<string>800%</string>
+</dict>
+</plist>
